@@ -1,0 +1,94 @@
+*
+{
+	margin: 0;
+}
+
+html
+{
+	scroll-behavior: smooth;
+}
+
+header
+{
+	padding: 50px;
+	background-attachment: fixed;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-image: url("../img/img3.jpg");
+}
+
+#my_logo
+{
+	font-family: broadway;
+}
+
+#box-1
+{
+	padding-bottom: 175px;
+	padding-top: 150px;
+	background-attachment: fixed;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-image: url("../img/img3.jpg");
+}
+
+#welcome
+{
+	color: white;
+	font-family: Imprint MT Shadow;
+	font-style: italic;
+	font-size: 75px;
+	text-shadow: 5px 5px 5px black;
+}
+
+#box-2
+{
+	padding: 100px;
+}
+
+.hotel
+{
+	font-family: Times New Roman;
+}
+
+#box-3
+{
+	padding: 50px;
+	background-color: black;
+}
+
+#box-3 span:hover
+{
+	color: white;
+	cursor: pointer;
+}
+
+#box-4
+{
+	padding: 50px;
+	background-color: white;
+}
+
+#box-5
+{
+	padding: 50px;
+	background-color: black;
+}
+
+#myinput
+{
+	width: 175px;
+}
+
+#mybtn
+{
+	margin-left: -5px;
+}
+
+footer	
+{
+	background-color: black;
+}
+
